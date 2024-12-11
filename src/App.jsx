@@ -1,10 +1,12 @@
 import React from 'react'
-import NavigationCube from './Navbar/NavigationCube'
+import Home from './Home/Home'
+
+
 
 const App = () => {
   return (
     <div>
-      <NavigationCube/>
+      <Home/>
     </div>
   )
 }
